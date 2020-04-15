@@ -24,6 +24,7 @@ public class Main {
         System.out.println(myHashTable1.isEmpty());
 
         myHashTable1.add("Solomon","watched them all" );
+        myHashTable1.add("Caldour","the bottom of all " );
 
         System.out.println( myHashTable1.contains("Solomon"));
 
@@ -55,7 +56,6 @@ public class Main {
 
 //        System.out.println(MyHashTable1.size());
 
-//      System.out.println(MyHashTable1.isEmpty());
 
     }
 
